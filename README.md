@@ -19,8 +19,8 @@ This is a simple Netflix clone built using only HTML and CSS. The project replic
 ## How to Use
 
 1. Clone this repository to your local machine:  
-   ```bash
- (https://github.com/Dev-patra/BharatIntern-TASK-1-NetflixClone.git)
+https://github.com/Dev-patra/BharatIntern-TASK-1-NetflixClone.git
+
 Technologies Used
 Frontend:
 
