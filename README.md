@@ -41,7 +41,6 @@ cd portfolio-website
 Contact
 If you have any questions or would like to get in touch, feel free to contact me:
 
-Email: cdevpatra05@gmail.com
-LinkedIn:https://www.linkedin.com/in/dev-patra-4b047a314
-GitHub:https://github.com/Dev-patra
-
+- **Email**:  cdevpatra05@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/dev-patra-4b047a314
+- **GitHub**: https://github.com/Dev-patra
