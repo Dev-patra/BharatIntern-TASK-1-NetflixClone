@@ -20,7 +20,7 @@ This is a simple Netflix clone built using only HTML and CSS. The project replic
 
 1. Clone this repository to your local machine:  
    ```bash
-   git clone https://github.com/your-username/netflix-clone.git
+ (https://github.com/Dev-patra/BharatIntern-TASK-1-NetflixClone.git)
 Technologies Used
 Frontend:
 
@@ -35,7 +35,7 @@ Installation
 To get a local copy up and running, follow these steps:
 
 Clone the repository:
-git clone https://github.com/Dev-patra/portfolio-website.git
+git clone : https://github.com/Dev-patra/BharatIntern-TASK-1-NetflixClone.git
 Navigate to the project directory:
 cd portfolio-website
 Contact
