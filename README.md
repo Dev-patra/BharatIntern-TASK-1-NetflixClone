@@ -1,22 +1,47 @@
-Netflix Clone
-This project is a Netflix clone created as part of my internship at Bharat Intern in the web development domain. The goal of this project was to replicate the front-end of Netflix using HTML and CSS, focusing on responsive design and UI/UX principles.
+# Netflix Clone 🎬
 
-Features
-Responsive Design: Adapts to different screen sizes for a seamless user experience across devices.
-UI/UX: Clean and modern design, similar to the Netflix interface.
+This is a simple Netflix clone built using only HTML and CSS. The project replicates the basic layout and design of Netflix's homepage, showcasing how you can create visually appealing and responsive web pages with just HTML and CSS.
+
+## Features
+
+- **Responsive Design**: The layout is responsive and adapts to different screen sizes, providing a seamless experience across devices.  
+- **Navigation Bar**: A static navigation bar with the Netflix logo and placeholder links for various sections.  
+- **Hero Section**: A featured content section with a background image, mimicking the look of Netflix’s dynamic content showcase.  
+- **Content Rows**: Multiple rows displaying movie and TV show thumbnails, similar to the "Popular on Netflix" and "Trending Now" sections.  
+- **Footer**: A simple footer with links to other pages (placeholders).  
+
+## Technologies Used
+
+- **HTML5**: For structuring the content of the webpage.  
+- **CSS3**: For styling the webpage, including the use of Flexbox and Grid for layout.  
+
+
+## How to Use
+
+1. Clone this repository to your local machine:  
+   ```bash
+   git clone https://github.com/your-username/netflix-clone.git
 Technologies Used
-HTML: For the structure of the web pages.
-CSS: For styling and layout.
+Frontend:
 
+HTML5
+CSS3
+JavaScript (ES6+)
+Tools:
+
+Visual Studio Code
+Git & GitHub
 Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/netflix-clone.git
-Open the index.html file in your browser to view the project.
-Acknowledgements
-A big thank you to the Bharat Intern team for this incredible opportunity and their support throughout the project.
+To get a local copy up and running, follow these steps:
 
-Contributing
-If you would like to contribute to this project, please fork the repository and submit a pull request.
+Clone the repository:
+git clone https://github.com/Dev-patra/portfolio-website.git
+Navigate to the project directory:
+cd portfolio-website
+Contact
+If you have any questions or would like to get in touch, feel free to contact me:
+
+Email: cdevpatra05@gmail.com
+LinkedIn:https://www.linkedin.com/in/dev-patra-4b047a314
+GitHub:https://github.com/Dev-patra
 
